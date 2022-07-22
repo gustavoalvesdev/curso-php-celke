@@ -1,0 +1,13 @@
+O curso inicia desde o básico de PHP7, banco de dados, HTML, CSS e Bootstrap 4 até como usar na prática para desenvolver site e sistema administrativo.
+
+Na parte básica do curso é abordado os principais elementos das tecnologias para desenvolvimento Web.
+
+Como usar o PHP básicoe o PHP Orientado a Objetos com PDO e usando o padrão MVC.
+
+Em seguida é apresentado como desenvolver  layout do site e do administrativo usando o Framework Bootstrap 4, layout responsivo, isto é, adapta-se ao tamanho da tela do dispositivo que o usuário estiver utilizando, seja computador, tablet ou Smartphone.
+
+Também é apresentado como usar o PHP na prática, como desenvolver o ite dinâmico, site sendo preenchido com informações do banco de dados. Para gerenciar o conteúdo do site é apresentado como criar o sistema administrativo.
+
+Sistema administrativo profissional, com níveis de acesso, totalmente gerencaido pelo administrativo. Através do administrativo é gerenciado o que cada nível de acesso pode acessar e muitas outras funções criadas durante o curso.
+
+Portanto, neste curso você vai aprender desde o básico de PHP e tecnologias web, até como usar na prática para criar o site e o sistema administrativo profissional, do ZERO, seja criar o layout até como integrar o PHP com banco de dados.
